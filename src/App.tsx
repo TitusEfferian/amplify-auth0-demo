@@ -63,7 +63,7 @@ function App() {
       <button
         onClick={handleCreateData}
       >
-        create todo
+        create data
       </button>
       <button
         onClick={handleGetAllData}
